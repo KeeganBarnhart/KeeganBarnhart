@@ -6,6 +6,10 @@ Computer Engineering & Math student at **High Point University** (May 2027). I b
 - 📈 **Futures trader:** I build Python and AI tools for backtesting, trade journaling, and risk tracking, plus Pine Script indicators on TradingView
 - 🔍 Open to remote or hybrid **AI engineer and analyst** roles starting 2027 (Charlotte area preferred)
 
+**Projects**
+- [**EVTRA**](https://github.com/KeeganBarnhart/evtra-overview): a Chrome extension and dashboard that puts a prop trader's accounts across every firm in one place ([evtra.trade](https://evtra.trade))
+- [**Prop Firm Backtester**](https://github.com/KeeganBarnhart/prop-firm-backtester): backtests Pine Script strategies and estimates prop firm pass rates with Monte Carlo simulation
+
 **Languages:** Python · JavaScript · C++ · Java · Pine Script
 **AI & data:** LLM & RAG applications, workflow automation, prompt engineering, data analysis
 
